@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+.row{  
+    border: 1px black solid;
+    background-color: blueviolet;
+    width: 75%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;  
+    
+}
+.col{
+    border: 1px black solid;
+    background-color: blueviolet;
+    width: 20%;
+    height: 90px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
